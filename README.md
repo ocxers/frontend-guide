@@ -24,5 +24,12 @@ https://cn.vuejs.org/v2/style-guide/index.html
 ## 腾讯编码规范：
 http://alloyteam.github.io/CodeGuide/
 
+## 网易编码规范：
+http://nec.netease.com/standard
+### CSS规范
+http://nec.netease.com/standard/css-sort.html
+### HTML规范
+http://nec.netease.com/standard/html-structure.html
+
 ## LICENSE
 MIT
